@@ -1,0 +1,10 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor"
+	]
+}
